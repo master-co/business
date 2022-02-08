@@ -12,7 +12,7 @@
     "peerDependencies": {},
     "repository": {
         "type": "git",
-        "url": "https://github.com/master-style/?.git"
+        "url": "https://github.com/master-co/?.git"
     }
 }
 ```
