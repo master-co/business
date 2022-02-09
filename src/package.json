@@ -2,7 +2,7 @@
     "name": "@master/business",
     "license": "MIT",
     "description": "A business data model for quick verification, access and output of specific data formats.",
-    "author": "Aoyue Design LTD.",
+    "author": "Aoyue Design LLC.",
     "main": "index.js",
     "types": "index.d.ts",
     "private": false,
